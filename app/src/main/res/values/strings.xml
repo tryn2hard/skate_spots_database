@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">SeoulSkateSpots.v.3.0</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Label for overflow menu option that inserts fake Spot data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all Spot data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Spots</string>
+
+    <!-- Title for the activity to add a new pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_spot">Add a spot</string>
+
+    <!-- Label for editor menu option to save spot and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current spot [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_type">Type</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_spot_name">Name</string>
+
+    <!-- Text hint for bust field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_spot_bust">BUST FACTOR</string>
+
+    <!-- Label for dropdown menu option if the spot's type is misc [CHAR LIMIT=20] -->
+    <string name="type_misc">Misc</string>
+
+    <!-- Label for dropdown menu option if the spot is a ledge [CHAR LIMIT=20] -->
+    <string name="type_ledge">Ledge</string>
+
+    <!-- Label for dropdown menu option if the spot is a bank [CHAR LIMIT=20] -->
+    <string name="type_bank">Bank</string>
+
+    <!-- Label for dropdown menu option if the spot is a rail [CHAR LIMIT=20] -->
+    <string name="type_rail">Rail</string>
+
+    <!-- Label for dropdown menu option if the spot is a park [CHAR LIMIT=20] -->
+    <string name="type_park">Park</string>
+
+    <!-- Toast message for succesful saved spot in database -->
+    <string name="new_spot_saved">Spot saved</string>
+
+    <!-- Toast message for succesful saved spot in database -->
+    <string name="spot_edit_saved">Spot info updated</string>
+
+    <!-- Toast message for unsuccesful saved spot in database -->
+    <string name="new_spot_error">Error adding new spot </string>
+
+    <!-- Toast message for unsuccesful saved spot in database -->
+    <string name="edit_spot_error">Error editing spot info </string>
+
+    <!-- Toast message for unsuccesful saved spot in database -->
+    <string name="delete_spot_error">Error deleting spot </string>
+
+    <!-- Toast message for unsuccesful saved spot in database -->
+    <string name="deleted_spot">Spot deleted </string>
+
+    <!-- Toast message for unsuccesful saved spot in database -->
+    <string name="delete_all_spots_error">Error deleting database </string>
+
+    <!-- Toast message for unsuccesful saved spot in database -->
+    <string name="deleted_all_spots">All spots deleted </string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a spot [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a spot</string>
+
+    <!-- A title in the editor activity to indicate a new spot is being added [CHAR LIMIT=50] -->
+    <string name="add_new_spot">add a new spot</string>
+
+    <!-- A title in the editor activity to indicate a stored pet is being edited  [CHAR LIMIT=50] -->
+    <string name="edit_spot">Spot has been updated</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current spot [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current spot was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_spot_successful">Spot deleted</string>
+
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_spot_failed">Error with deleting pet</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current spot [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this spot?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current spot [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current spot [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Cosmetic displaying of unknown breed -->
+    <string name="spotType_misc">Misc spot</string>
+
+</resources>
